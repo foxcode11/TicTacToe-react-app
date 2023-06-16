@@ -1,4 +1,4 @@
-import './styles.scss';
+import './style.scss';
 import { useState } from 'react';
 import Board from './components/Board';
 import StatusMessage from './components/StatusMessage';
